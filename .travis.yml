@@ -1,0 +1,7 @@
+rvm:
+   - 2.2.1
+script: rake
+
+branches:
+  only:
+    - travis
